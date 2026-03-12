@@ -1,7 +1,10 @@
 # Beauty-of-OpenGL
 Using C++ and OpenGL API I made a noctural forest scene full of fireflies and a watchtower.
+
 It has a textured terrain, trees animated with a wind effect, fireflies that emit point 
+
 lights, and a watchtower equipped with spotlight lights that project a texture pattern (light cookie).
+
 It also has fog effects.
 
 <img width="441" height="351" alt="Photo1" src="https://github.com/user-attachments/assets/a1821a05-faf5-41f9-bda5-28bf438fe80a" />
