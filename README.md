@@ -4,9 +4,13 @@ It has a textured terrain, trees animated with a wind effect, fireflies that emi
 lights, and a watchtower equipped with spotlight lights that project a texture pattern (light cookie).
 It also has fog effects.
 
-<img width="541" height="151" alt="Photo1" src="https://github.com/user-attachments/assets/a1821a05-faf5-41f9-bda5-28bf438fe80a" />
+<img width="441" height="351" alt="Photo1" src="https://github.com/user-attachments/assets/a1821a05-faf5-41f9-bda5-28bf438fe80a" />
 
-<img width="541" height="152" alt="Photo2" src="https://github.com/user-attachments/assets/18ecccf4-67df-4e88-8ed3-0ce47d10141a" />
+Here is the cookie effect from the watchtower.
+
+<img width="441" height="351" alt="Photo2" src="https://github.com/user-attachments/assets/18ecccf4-67df-4e88-8ed3-0ce47d10141a" />
+
+Here is a view of the fireflies and the trees.
 
 # API install requirements:
  The following API's are needed to be installed before using the framework:
